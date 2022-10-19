@@ -22,7 +22,7 @@ The most difficult aspect would have been adjusting the query to pull in all sto
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Year?
-There was a significant market drop in 2018, and not a signifant amount of fluctuation in total daily volume in most stocks between the 2 years.
+There was a significant market drop in 2018, and not a significant amount of fluctuation in total daily volume in most stocks between the 2 years.
 
 - What can you conclude about the Outcomes based on Ticker?
 RUN and ENPH faired the best out of all stocks during the downturn in 2018.
